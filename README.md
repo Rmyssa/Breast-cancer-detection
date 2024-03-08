@@ -39,3 +39,8 @@ I applied the KNN algorithm to this dataset using artificial neural networks in 
 [9] Gorunescu M., Gorunescu F., ve Revett K., “Investigating a Breast Cancer Dataset Using a Combined Approach: Probabilistic Neural Networks and Rough Sets”, Proc. 3rd ACM International Conference on Intelligent Computing and Information Systems -ICICIS07, Cairo, Egypt, (2007), pp. 246-249. 
 [10]  Hsiao  Y.H.,  Huang  Y.L.,  Liang  W.M., Kuo  S.J.  and  Chen  D.R.,  “Characterization  of  benign  and malignant solid breast masses: harmonic versus nonharmonic 3D power Doppler imaging”, Ultrasound Medicine & Biology, (2009), 35 (3), pp. 353-359.
 [11] https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+
+
+
+
