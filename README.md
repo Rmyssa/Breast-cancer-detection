@@ -22,6 +22,9 @@ h) Concave points (number of concave portions of the contour)
 i) Symmetry
 j) Fractal dimension ("coastline approximation")
 
+
+Result: Conducted on a dataset comprising a total of 569 observations. Each observation contains 31 different features. These features are utilized to determine whether cancer cells are malignant (M) or benign (B). The K-Nearest Neighbors (KNN) algorithm was employed for the analysis. The model's performance was evaluated on the test dataset, achieving an accuracy rate of 95.92%. Furthermore, a confusion matrix (CM) was used to provide a more detailed assessment of the model's performance. The best performance was attained by determining the optimal parameters for the KNN algorithm. The optimal parameters for the highest test accuracy (99.42%) were identified as {'n_neighbors': 1, 'weights': 'uniform'}. However, a more generalized model option might be preferred to reduce the risk of overfitting.
+
 Mean, standard error, and "worst" (mean of three largest values) were calculated for each feature, resulting in 30 features. For example, mean radius is 3, mean area is 13, and worst radius is 23. All feature values were re-coded with four significant digits. Missing feature values: none Class distribution: 357 benign, 212 malignant. I modified the dataset to represent B (benign tumor) = 0, M (malignant tumor) = 1.
 
 I applied the KNN algorithm to this dataset using artificial neural networks in the implementation. The reason for choosing these algorithms is to obtain good results from the dataset.
